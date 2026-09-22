@@ -240,4 +240,4 @@ This repository serves as the official landing page for One Must Fall. The softw
 **Get the most recent version of One Must Fall today!**
 
 ---
-**Last updated:** 2026-09-22 09:42:53 UTC
+**Last updated:** 2026-09-22 14:30:37 UTC
